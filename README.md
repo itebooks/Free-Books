@@ -240,6 +240,8 @@ Download Open Access IT Books
 - [Raspberry Pi Projects Book](https://it-ebooks.dev/books/hardware-and-iot/raspberry-pi-projects-book)
 - [Rational Cybersecurity for Business](https://it-ebooks.dev/books/cybersecurity/rational-cybersecurity-for-business)
 - [RavenDB in Action](https://it-ebooks.dev/books/databases/ravendb-in-action)
+- [Ray Tracing Gems](https://it-ebooks.dev/books/game-development/ray-tracing-gems)
+- [Ray Tracing Gems II](https://it-ebooks.dev/books/game-development/ray-tracing-gems-ii)
 - [Reactive Microsystems](https://it-ebooks.dev/books/sysadmin-and-devops/reactive-microsystems)
 - [Red Hat Certified Engineer (RHCE) Ansible Automation Study Guide](https://it-ebooks.dev/books/sysadmin-and-devops/red-hat-certified-engineer-rhce-ansible-automation-study-guide)
 - [Redis For Dummies, 2nd Edition](https://it-ebooks.dev/books/databases/redis-for-dummies-2nd-edition)
